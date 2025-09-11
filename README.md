@@ -42,7 +42,7 @@ Readable Fluent Interface → chainable methods read like sentences.
 
 5. Example Output
 css
-Копировать код
+
 Car [Model='Sports Car', Engine='V8', Seats=2]
 Car [Model='Family Car', Engine='Hybrid', Seats=5]
 6. Conclusion
