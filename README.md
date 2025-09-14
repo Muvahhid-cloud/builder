@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 This project demonstrates the **Builder Design Pattern** in Java using a `Car` as the product.  
-The Builder Pattern allows constructing objects step by step in a readable and flexible way.  
+The Builder Pattern allows constructing objects step by step.  
 
 ---
 
